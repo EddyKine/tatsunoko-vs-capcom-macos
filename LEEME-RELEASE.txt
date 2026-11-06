@@ -1,0 +1,28 @@
+TvC Settings 0.6.3 — edición pública para macOS Apple Silicon
+
+ESTA DESCARGA ES EL CONFIGURADOR; NO ES EL JUEGO COMPLETO.
+No incluye ModernGekko, el módulo recompilado ni datos de Tatsunoko vs. Capcom.
+Necesita una copia portable compatible aportada por el usuario.
+
+1. Descomprime el ZIP.
+2. Cierra tu configurador anterior y conserva una copia de seguridad.
+3. Coloca TvC Settings.app junto a Tatsunoko vs Capcom.app y UserData.
+   Conserva la app anterior con otro nombre, en lugar de borrarla.
+4. Abre TvC Settings.app.
+
+Requisito declarado: Apple Silicon, macOS 13 o posterior. La edición pública
+se compila y comprueba en macOS 27.2; no se ha probado en otro Mac físico.
+Firma ad hoc, sin Developer ID ni notarización: Gatekeeper podría impedir abrirla.
+
+Funciones: resolución, pantalla completa, CRT pixel-locked, control Xbox,
+reasignación Classic Controller/Wiimote, perfiles de partidas y cierre del juego.
+Al usar el configurador, las opciones y perfiles se escriben en el UserData
+situado junto a la app. Prueba primero en una copia de tu portable.
+No reemplaces una partida real para verificar una descarga.
+
+No incluye juegos, claves, archivos Wii/NAND, partidas ni perfiles personales.
+Las imágenes opcionales de referencia del mando se omiten; se conservan los
+pictogramas y la alternativa con icono del sistema.
+
+Fuentes, compilación, licencia GPLv3 y límites:
+https://github.com/EddyKine/tatsunoko-vs-capcom-macos

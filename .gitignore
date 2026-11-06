@@ -1,0 +1,24 @@
+build/
+.dist/
+__pycache__/
+.DS_Store
+._*
+*.app/
+*.zip
+*.tar.gz
+*.dylib
+*.dol
+*.iso
+*.rvz
+*.wbfs
+*.wad
+*.bin
+*.sav
+*.tmd
+*.tik
+UserData/
+Game/
+Module/
+Runtime/
+# Optional controller images from the private archive are not public assets.
+Resources/*.png
